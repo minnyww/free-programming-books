@@ -1,49 +1,46 @@
-# Contributor Code of Conduct
+# ผู้มีส่วนร่วมเกี่ยวกับ จรรยาบรรณ
 
-As contributors and maintainers of this project, and in the interest of
-fostering an open and welcoming community, we pledge to respect all people who
-contribute through reporting issues, posting feature requests, updating
-documentation, submitting pull requests or patches, and other activities.
+ในฐานะผู้มีส่วนร่วมและผู้ดูแลโครงการนี้ ยินดีต้อนรับเพื่อประโยชน์ในการส่งเสริมชุมชนที่เปิดกว้าง เราให้คำมั่นว่าเราจะเคารพทุกคนที่
+มีส่วนร่วมในการรายงานปัญหา โพสต์เพื่อร้องขอฟีเจอร์เพิ่มเติม หรือคอยอัปเดตเอกสาร รวมถึงไปการเปิดคำร้องในการเข้ามามีส่วนร่วมกับเรา และกิจกรรมอื่นๆ
 
-We are committed to making participation in this project a harassment-free
-experience for everyone, regardless of the level of experience, gender, gender
-identity and expression, sexual orientation, disability, personal appearance,
-body size, race, ethnicity, age, religion, or nationality.
+เรามุ่งมั่นที่จะทำให้ทุกคนที่มีส่วนร่วมในโครงการนี้ปราศจากการล่วงละเมิด
+ประสบการณ์สำหรับทุกคน โดยไม่คำนึงถึงระดับของประสบการณ์ เพศ เพศ
+อัตลักษณ์และการแสดงออก รสนิยมทางเพศ ความทุพพลภาพ รูปลักษณ์ส่วนตัว
+ขนาดร่างกาย เชื้อชาติ ชาติพันธุ์ อายุ ศาสนา หรือสัญชาติ
 
-Examples of unacceptable behavior by participants include:
+ตัวอย่างของพฤติกรรมที่ไม่เหมาะสม ได้แก่
 
-* The use of sexualized language or imagery
-* Personal attacks
-* Trolling or insulting/derogatory comments
-* Public or private harassment
-* Publishing other's private information, such as physical or electronic
-  addresses, without explicit permission
-* Other unethical or unprofessional conduct
+* การใช้ภาษาหรือภาพที่เกี่ยวกับเรื่องเพศ
+* การโจมตีส่วนบุคคล
+* การล้อเลียนหรือดูถูก / ความคิดเห็นที่เสื่อมเสีย
+* โจมตีภาครัฐหรือเอกชน
+* เผยแพร่ข้อมูลส่วนตัวของผู้อื่น เช่น ข้อมูลจริงหรืออิเล็กทรอนิกส์ ที่อยู่ โดยไม่ได้รับอนุญาตอย่างชัดเจน
+* ความประพฤติผิดจรรยาบรรณหรือความไม่เป็นมืออาชีพอื่น ๆ
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
-
-By adopting this Code of Conduct, project maintainers commit themselves to
-fairly and consistently applying these principles to every aspect of managing
-this project. Project maintainers who do not follow or enforce the Code of
-Conduct may be permanently removed from the project team.
-
-This code of conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community.
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting a project maintainer at victorfelder at gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. Maintainers are
-obligated to maintain confidentiality with regard to the reporter of an
-incident.
+ผู้ดูแลโครงการมีสิทธิและความรับผิดชอบในการลบ แก้ไข หรือ
+ปฏิเสธความคิดเห็น คอมมิต โค้ด การแก้ไขวิกิ ปัญหา และการสนับสนุนอื่นๆ
+ที่ไม่สอดคล้องกับหลักจรรยาบรรณนี้ หรือห้ามชั่วคราวหรือ
+ผู้สนับสนุนพฤติกรรมอื่น ๆ ที่พวกเขาเห็นว่าไม่เหมาะสมอย่างถาวร
+ข่มขู่ ก้าวร้าว หรือเป็นอันตราย
 
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.3.0, available at https://contributor-covenant.org/version/1/3/0/
+การนำหลักจรรยาบรรณนี้มาใช้ ผู้ดูแลโครงการมุ่งมั่นที่จะ
+ประยุกต์ใช้หลักการเหล่านี้อย่างเป็นธรรมและสม่ำเสมอในทุกด้านของการจัดการ
+โครงการนี้. ผู้ดูแลโครงการที่ไม่ปฏิบัติตามหรือบังคับใช้หลักจรรยาบรรณของ
+การดำเนินการอาจถูกลบออกจากทีมงานโครงการอย่างถาวร
+
+
+จรรยาบรรณนี้ใช้ทั้งในพื้นที่โปรเจ็คนี้และในพื้นที่สาธารณะ เมื่อบุคคลเป็นตัวแทนของโครงการหรือชุมชน
+
+กรณีที่เป็นการล่วงละเมิด ล่วงละเมิด หรือพฤติกรรมอื่นๆ ที่ยอมรับไม่ได้อาจเป็น
+รายงานโดยติดต่อผู้ดูแลโครงการที่ victorfelder ที่ gmail.com ทั้งหมด
+ข้อร้องเรียนจะได้รับการตรวจสอบและสอบสวนและจะส่งผลให้เกิดการตอบสนองที่
+ถือว่าจำเป็นและเหมาะสมกับสถานการณ์ ผู้ดูแลคือ
+มีหน้าที่ต้องรักษาความลับเกี่ยวกับนักข่าวของเหตุการณ์นั้นๆ
+
+
+จรรยาบรรณนี้ดัดแปลงมาจาก [Contributor Covenant][homepage],
+version 1.3.0, พร้อมแล้วที่ https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
 
